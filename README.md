@@ -6,7 +6,7 @@
 - **Subject Code:** CEUE203
 - **Semester:** 3
 - **Academic Year:** 2026–27
-- **Student ID:** 25CE083
+- **Student ID:** 25CE005
 
 ## Overview
 
