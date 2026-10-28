@@ -1,0 +1,13 @@
+out/
+data/
+logs/
+lib/*.jar
+*.class
+.idea/
+.vscode/
+*.iml
+
+# Generated build artifacts
+minibank.jar
+manifest.txt
+sources.txt
